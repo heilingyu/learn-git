@@ -6,3 +6,4 @@
 5. gpg4
 6. gpg5
 7. gpg6
+8. gpg,yes!
